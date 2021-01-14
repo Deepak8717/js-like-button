@@ -1,0 +1,23 @@
+.container {
+  width: 50%;
+  height: 50vh;
+  margin: 50px auto;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fa-heart {
+  font-size: 40px;
+  color: red;
+  position: relative;
+  cursor: pointer;
+}
+span {
+  position: absolute;
+  color: #fff;
+  font-weight: bold;
+  font-size: 15px;
+  top: 12px;
+  left: 18px;
+}
